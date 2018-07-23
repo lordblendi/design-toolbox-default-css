@@ -30,7 +30,7 @@ Because of CORS this file cannot be linked from a locally served version. To use
 ### Jekyll
  Add [this file](https://github.com/tenforce/design-toolbox-default-css/blob/master/_includes/default-css.html) to the another Jekyll project to include files from this project.
 
- ### Other technologies
+### Other technologies
 
 First add a link to Source Sans Pro, then to Tailwind.
 
