@@ -20,7 +20,7 @@ Because of CORS this file cannot be linked from a locally served version. To use
 
 ## Usage
 ### Jekyll
-  Add [this file for css](https://github.com/tenforce/design-toolbox-default-css/blob/master/import/default-css.html) and  [this file for js](https://github.com/tenforce/design-toolbox-default-css/blob/master/import/default-js.html)  to the other Jekyll project to include files from this project.
+  Add [the content of this file in your HTML head for css](https://github.com/tenforce/design-toolbox-default-css/blob/master/import/default-css.html) and [the content of this file at the end of your body for js](https://github.com/tenforce/design-toolbox-default-css/blob/master/import/default-js.html)  to the other Jekyll project to include files from this project.
 
 ### Other technologies
 
@@ -33,7 +33,7 @@ First add a link to Source Sans Pro, then to Tailwind.
 
 And last use the [built default.css](https://tenforce.github.io/design-toolbox-default-css/sass/default.css) file.
 
-The order matters, because we depend on the Tailwind reset file.
+The order matters because we depend on the Tailwind reset file.
 
 ## Dependencies
 - Tailwind
